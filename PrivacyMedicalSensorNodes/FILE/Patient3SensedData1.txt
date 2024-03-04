@@ -1,0 +1,6 @@
+Id: 3
+age: 37
+sex: 1
+chestpaintype: 2
+bloodpressure: 130
+cholestoral: 283
